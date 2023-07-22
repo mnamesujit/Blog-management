@@ -88,9 +88,29 @@ body {
 
 /* --------- DetailView-Section --------- */
 
-.artificial-section{
+.artificial-section {
+    background-color: #cfcfca;
+}
+
+.artificial-detail-section {
     background-color: #fff;
 }
-.artificial-heading{
-    font-family: "sans-serif";
+
+.artificial-heading {
+    font-family: "Bree";
+    color: #59281a;
+}
+
+.artificial-image {
+    width: 100%;
+}
+
+.artificial-description {
+    font-family: "Bree";
+    font-size: 16px;
+}
+
+span {
+    color: #000;
+    font-weight: 900;
 }
