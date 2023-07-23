@@ -157,3 +157,21 @@ span {
     font-family: "Times New Roman";
     font-size: 17px;
 }
+
+/* ------- FAQ-Section -------- */
+
+.faq-section{
+    background-color: #000;
+}
+.faq-container-section{
+    background-color: #fff;
+    border-radius: 16px;
+    border-style: solid;
+}
+.faq-heading{
+    font-family: "Roboto";
+}
+.faq-description{
+    font-size: 16px;
+    font-style: oblique;
+}
